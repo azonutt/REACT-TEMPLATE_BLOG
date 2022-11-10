@@ -1,0 +1,28 @@
+.RegisterDiv {
+    margin-top: -40.8%;
+    font-family: cursive;
+    color: gold;
+    padding-top: 6%;
+    margin-left: 55%;
+    font-size: 25px;
+}
+
+.input {
+    margin-top: 1%;
+}
+
+#reg-name {
+    width: 59%;
+    height: 49px;
+}
+
+#con-pad {
+    margin-top: 2%;
+    width: 59%;
+    height: 49px;
+}
+
+#reg-pass {
+    width: 59%;
+    height: 49px;
+}

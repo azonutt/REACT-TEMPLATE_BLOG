@@ -1,0 +1,32 @@
+h3{
+    color: aquamarine;
+}
+#myform{
+background-image: url('../assets/images/marten-bjork-mO_wNXV-Bts-unsplash.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+/* position: relative; */
+margin-top: -19px;
+height: 80vh;
+}
+
+#form{
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+#form1{
+    width:20%;
+   margin-top: 3%;
+   margin-left: 3%;
+}
+#form2{
+    width: 20%;
+    margin-left: 3%;
+    
+}
+#form3{
+    width: 20%;
+    margin-left: 3%;  
+}
